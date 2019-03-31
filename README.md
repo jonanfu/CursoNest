@@ -45,6 +45,9 @@ $ npm run start:dev
 
 # production mode
 $ npm run start:prod
+
+# database
+$ crear la base de datos
 ```
 
 ## Test
